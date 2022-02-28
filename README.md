@@ -5,7 +5,7 @@
 
 *✅ - Deve ser possível criar uma conta*
 
-*❌ - Deve ser possível buscar o extrato bancário do cliente*
+*✅ - Deve ser possível buscar o extrato bancário do cliente*
 
 *❌ - Deve ser possível realizar um depósito*
 
@@ -24,7 +24,7 @@
 
 ## **Regras de negócio:**
 
-*❌ - Não deve ser possível cadastrar uma conta com CPF já existente*
+*✅ - Não deve ser possível cadastrar uma conta com CPF já existente*
 
 *❌ - Não deve ser possível fazer depósito em uma conta não existente*
 
